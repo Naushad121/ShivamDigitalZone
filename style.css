@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background-image{
+    background-image: url(./landscape.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+.bottom-left {
+    position: absolute;
+    top: 138px;
+    left: 41px;
+    color: rgb(188, 8, 8);
+    font-family: sans-serif;
+    font-size: xx-large;
+    width: 95%;
+    direction: left;
+    height: 50px;
+  }
+  .btn {
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin-left: 1050px;
+    border-radius: 10px;
+  }
